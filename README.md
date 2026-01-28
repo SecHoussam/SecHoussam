@@ -1,5 +1,5 @@
 ---
-<h3 align="center">🛡️ Security Enginer </h3>
+<h3 align="center">🛡️ Security Engineer </h3>
 
 <p align = "center">
 <img src = "https://komarev.com/ghpvc/?username=SecHoussam&style=plastic&color=blueviolet" alt = "Profile Views"/>
