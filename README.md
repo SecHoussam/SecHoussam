@@ -42,10 +42,5 @@
 
 ---
 
-## ☕ Support My Work
-<a href="https://ko-fi.com/SecHoussam" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" />
-</a>
-
 
 
