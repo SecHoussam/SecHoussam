@@ -30,6 +30,14 @@
 </div>
 <hr>
 
+### Description :
+
+- Hacking Skills :
+                 - Web Application & API
+                 - Android Application
+                 - Code Review
+                 - Memory corruption ( C/C++ ) . 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SecHoussam&show_icons=true&theme=github_dark&hide_border=true" />
