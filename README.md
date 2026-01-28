@@ -1,9 +1,8 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=SecHoussam&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
@@ -54,3 +53,7 @@
 <img src="https://raw.githubusercontent.com/SecHouassm/SecHouassm/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
