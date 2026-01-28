@@ -30,4 +30,22 @@
 </div>
 <hr>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h0tak88r&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0tak88r&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=h0tak88r&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## ☕ Support My Work
+<a href="https://ko-fi.com/0x88" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" />
+</a>
+
+
 
