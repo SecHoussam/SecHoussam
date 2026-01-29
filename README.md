@@ -19,6 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
 </div>
 
+## Description :
+- 🇵🇸 Free Palestine, Open-Source Toolsmith 🛠️ Building & contributing to packages, security tools, and automation projects .
+
 ###
 
 <div align="center">
