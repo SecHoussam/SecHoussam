@@ -19,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
 </div>
 
+# About :
+- senior Web Pentest and code Review .
+- Midde Android Pentest .
+- Fuzzing Open Source Packages 
 ###
 
 <div align="center">
