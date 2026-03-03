@@ -33,6 +33,13 @@
 </div>
 <hr>
 
+## Quotes
+- Ken Thompson : You can’t trust code that you did not totally create yourself .
+- Linus Torvalds : Talk is cheap Show me the code .
+- Me :  If your hands haven't gotten dirty with code, don't tell me you understand web security.
+
+<hr>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SecHoussam&show_icons=true&theme=github_dark&hide_border=true" />
