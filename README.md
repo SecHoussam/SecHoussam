@@ -33,11 +33,6 @@
 </div>
 <hr>
 
-## Quotes
-- Ken Thompson : You can’t trust code that you did not totally create yourself .
-- Linus Torvalds : Talk is cheap Show me the code .
-- Me :  If your hands haven't gotten dirty with code, don't tell me you understand web security.
-
 <hr>
 
 ## 📊 GitHub Stats
