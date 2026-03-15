@@ -1,13 +1,4 @@
-###
-
-<div align="center">
-  <a href="https://twitter.com/0day_dz" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://t.me/x0day_dz" target="_blank">
-  
 <hr>
-
-## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SecHoussam&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecHoussam&layout=compact&theme=github_dark&hide_border=true" />
